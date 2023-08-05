@@ -11,7 +11,7 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 com
-C:/MaProgramming/TP_workspace
+C:/MaProgramming/TP_workspace/ㄴ;ㅣㅑ렂;디ㅑㄹ
 ;sldfjsa;dlkfjsad;lfkjasdf
 aslkdfj;aslkdfjas;ldkf
 f;aslkdjf;sldkfjasd
@@ -27,6 +27,9 @@ slkfjs;dlfksd;flksdf
 s;ldkfjs;dlkfjsad;lfkajs
 s;lkdfja;sldkfjas;dlkf
 ;laskjf;oiwe;f
-
+1. 충돌 생겼을 때 
+2. 충돌 안생기게 하는 법
+ㄹ니ㅑㅇ러;ㄴ이ㅏ런;일
+;ㅣㅓㄴ;리ㅏ런;일
 </body>
 </html>
