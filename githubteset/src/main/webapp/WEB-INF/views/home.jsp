@@ -7,7 +7,7 @@
 <body>
 <h1>
 	Hello world!
-	
+
 	hi
 	hi  
 </h1>
